@@ -1,0 +1,28 @@
+#It is highly recommended that you do not touch this file unless
+#you know what you are doing with it, or if your name is Riccardo.
+#Then in this case it's totally fine, go ahead and mess with this stuff.
+#Wed Nov 25 12:29:11 CET 2020
+logicalLevelWidth=800
+soundIsEnabled=true
+backgroundColor=00FF00
+maxIdNumber=99999
+hiscore6=0
+hiscore5=0
+defaultOutlineColor=000000
+hiscore8=0
+hiscore7=0
+hiscore2=1300
+hiscore1=5700
+hiscore4=100
+hiscore3=600
+playername8=Unknown
+playername7=Unknown
+playername6=Unknown
+playername5=Unknown
+playername4=Unknown
+playername3=Unknown
+playername2=Unknown
+framesPerSecond=60
+playername1=Unknown
+baseIdNumber=10
+logicalLevelHeight=600
