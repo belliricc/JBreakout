@@ -1,6 +1,6 @@
 # JBreakout
 Breakout clone made in Java and Swing, done some time ago as an exercise.
-## Features (if you can call them so)
+## Features
 - Coded using the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) and [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) design patterns
 - UI components realized in Swing, using NetBeans's graphical editor for layout
 - Sound effects!
