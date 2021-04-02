@@ -6,4 +6,3 @@ Breakout clone made in Java and Swing, done some time ago as an exercise.
 - Sound effects!
 - Fully scalable; resize the window however you want
 - Highscores board
-- ..not much else.
